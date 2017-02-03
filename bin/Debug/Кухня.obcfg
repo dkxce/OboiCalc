@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OboiConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <FloorWidth>2.88</FloorWidth>
+  <FloorHeight>3.04</FloorHeight>
+  <WallHeight>2.66</WallHeight>
+  <OboiLength>10</OboiLength>
+  <OboiWidth>106</OboiWidth>
+  <OboiRapport>0</OboiRapport>
+  <Sdvig>false</Sdvig>
+  <Zapas>10</Zapas>
+</OboiConfig>
